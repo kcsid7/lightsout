@@ -1,0 +1,15 @@
+.Cell {
+  height: 150px;
+  width: 150px;
+  background-color: rgba(213, 38, 19);
+  transition: background-color 0.2s ease-out;
+  box-shadow: 2px 2px 2px;
+  border-radius: 50%;
+}
+
+.Cell-lit {
+
+  background-color: rgba(112, 128, 144, 0.509);
+  
+  box-shadow: 2px 2px 2px;
+}

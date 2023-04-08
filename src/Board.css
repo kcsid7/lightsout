@@ -1,0 +1,44 @@
+.Board {
+    margin: 0 auto;
+  }
+
+.Board-Title {
+  font-size: 4rem;
+  color: rgba(112, 128, 144, 0.509);
+  box-shadow: 5px 5px 5px black;
+  width: 30%;
+  padding: 1rem 0;
+}
+
+.Board-Title-Instructions {
+  font-size: 1.4rem;
+  color: rgba(112, 128, 144, 0.509);
+
+}
+
+.Board-Title-RED {
+  color: rgba(213, 38, 19);
+
+}
+
+.Board-Title-Won {
+  font-size: 4rem;
+  color: rgba(213, 38, 19);
+  box-shadow: 5px 5px 5px rgba(213, 38, 19);;
+  width: 30%;
+  padding: 1rem 0;
+}
+
+.Board-Won {
+  color: rgba(213, 38, 19);
+  font-size: 6rem;
+  font-family: cursive;
+  
+
+}
+
+.Board-Main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
